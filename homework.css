@@ -1,0 +1,17 @@
+nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 150px;
+}
+
+body {
+    position: absolute;
+    left: 150px;
+    height: 10000px;
+}
